@@ -54,7 +54,8 @@
 
 <h3 align="center">🌟 Highlight Projects</h3>
 
-<p align="center">
+<div align="center">
+
 <table>
   <thead>
     <tr>
@@ -90,13 +91,15 @@
       <td><a href="https://youtu.be/EPPGCsuCQeY?si=Sio-6KOOR1WolcuK">Watch</a></td>
     </tr>
     <tr>
-      <td>🧑‍🏫 <strong>iGraphics Classroom</strong></td>
+      <td>👨‍🏫 <strong>iGraphics Classroom</strong></td>
       <td>Google Classroom clone in C</td>
       <td><a href="https://youtu.be/Sn_-tgrWQ_M?si=ReN31cJu21mkfs5a">Watch</a></td>
     </tr>
   </tbody>
 </table>
-</p>
+
+</div>
+
 
 ---
 
