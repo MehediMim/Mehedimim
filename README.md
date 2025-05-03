@@ -1,5 +1,3 @@
-### 👨‍💻 Languages I Use Most
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=compact)
 
 ### 🧰 Languages & Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
@@ -11,9 +9,6 @@
 ![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehediMim&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MehediMim)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MehediMim)
 
 ### 🔗 Connect with Me
 - 🔗 [My Portfolio](https://your-portfolio.com)
