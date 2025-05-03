@@ -1,20 +1,26 @@
 <h1 align="center">👋 Hi, I'm Mehedi Mim</h1>
 <p align="center">
-  🎓 BUET CSE Junior | ⚙️ Low-Level & Web Development Enthusiast | 🌠 Curious About Space, Code & Creativity
+  🎓 Junior at BUET CSE | 💻 ChatGPT-Powered Coder | 🎨 Tech Meets Design Enthusiast
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
 
-- 🎓 Currently pursuing B.Sc. in CSE at **Bangladesh University of Engineering and Technology (BUET)**
-- 📘 Completed core courses including:
-  - Discrete Mathematics, Digital Logic Design (+ Sessional)
-  - Data Structures & Algorithms I & II (+ Sessionals)
-  - Database (+ Sessional), OOP (+ Sessional), Structured Programming
-- 🧠 Learning Assembly, Microprocessors, Deep Learning, and Godot Game Dev
-- 💬 Ask me about C, C++, Java, Python, Bash, or React stack
-- 📫 Reach me at: `mehedimim@email.com`
+- 🏫 B.Sc. in **Computer Science and Engineering**, **Bangladesh University of Engineering and Technology (BUET)**
+- 📚 Completed core courses:
+  - ✔️ *Discrete Mathematics*
+  - ✔️ *Digital Logic Design* (+ Sessional)
+  - ✔️ *Data Structures & Algorithms I & II* (+ Sessionals)
+  - ✔️ *Object-Oriented Programming* (+ Sessional)
+  - ✔️ *Structured Programming Language*
+  - ✔️ *Database Systems* (+ Sessional)
+- 🧠 Currently learning:
+  - Assembly, Microprocessors, Deep Learning, and Godot Game Development
+- 💬 Ask me about: `C`, `C++`, `Java`, `Python`, `React`, `Bash`, `Microcontrollers`
+- 🤖 ChatGPT + Code = 💥 Productivity unlocked
+- 🧑‍🎨 CS mind, designer heart
+- 📫 Email: `mehedimim@email.com`
 
 ---
 
@@ -39,18 +45,18 @@
 
 ### 🌟 Highlight Projects
 
-| Project | Description | Video |
+| Project | Description | Demo |
 |--------|-------------|--------|
-| 🚀 **NASA Space Apps Challenge** | Space education platform combining ML, React, 3D viz, and gamification | [Watch Video](https://youtu.be/AQZeN0TNfEA?si=Rxrp5gLztim2yskJ) |
-| 🎨 **Frontend Design Showcase** | Stylish UI/UX project using React + Tailwind | [Watch Video](https://youtu.be/9yrtWuB5y5E?si=FEnabpIl-H9WTaO6) |
-| 🛍️ **E-commerce Website** | Full-stack shop platform with cart, auth, and admin | [Watch Video](https://youtu.be/jDDWStAuT3o?si=wLuon-ZpZT5Jx-ad) |
-| 🍽️ **JavaFX Restaurant Management** | Desktop-based management system for orders and billing | [Watch Video](https://youtu.be/-g-A30ctGrE?si=xeea5An9poofiRYh) |
-| 🎮 **Godot Game Dev** | 2D action game project using Godot engine | [Watch Video](https://youtu.be/EPPGCsuCQeY?si=Sio-6KOOR1WolcuK) |
-| 🧑‍🏫 **Google Classroom Clone (iGraphics)** | Educational UI made using C-based iGraphics | [Watch Video](https://youtu.be/Sn_-tgrWQ_M?si=ReN31cJu21mkfs5a) |
+| 🚀 **NASA Space Apps Challenge** | Space education platform with ML, React, 3D, and gamification | [Watch](https://youtu.be/AQZeN0TNfEA?si=Rxrp5gLztim2yskJ) |
+| 🎨 **Frontend Design Showcase** | Creative UI/UX using React + Tailwind | [Watch](https://youtu.be/9yrtWuB5y5E?si=FEnabpIl-H9WTaO6) |
+| 🛍️ **E-commerce Website** | Full-stack shopping app with cart, login, admin | [Watch](https://youtu.be/jDDWStAuT3o?si=wLuon-ZpZT5Jx-ad) |
+| 🍽️ **JavaFX Restaurant System** | Desktop app for food order and billing | [Watch](https://youtu.be/-g-A30ctGrE?si=xeea5An9poofiRYh) |
+| 🎮 **Godot 2D Game** | Action game built using Godot engine | [Watch](https://youtu.be/EPPGCsuCQeY?si=Sio-6KOOR1WolcuK) |
+| 🧑‍🏫 **iGraphics Classroom UI** | Google Classroom clone with C graphics | [Watch](https://youtu.be/Sn_-tgrWQ_M?si=ReN31cJu21mkfs5a) |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehediMim&show_icons=true&theme=gruvbox" height="165">
@@ -59,7 +65,7 @@
 
 ---
 
-### 🏆 Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MehediMim&theme=gruvbox&column=6" />
@@ -71,7 +77,7 @@
 
 - GitHub: [MehediMim](https://github.com/MehediMim)
 - Email: `mehedimim@email.com`
-- YouTube: [My Project Playlist](https://www.youtube.com/@yourchannel)
+- YouTube: [Project Playlist](https://www.youtube.com/@yourchannel)
 
 ---
 
