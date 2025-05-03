@@ -1,16 +1,80 @@
+<h1 align="center">👋 Hi, I'm Mehedi Mim</h1>
+<p align="center">
+  🎓 BUET CSE Junior | ⚙️ Low-Level & Web Development Enthusiast | 🌠 Curious About Space, Code & Creativity
+</p>
+
+---
+
+### 👨‍🎓 About Me
+
+- 🎓 Currently pursuing B.Sc. in CSE at **Bangladesh University of Engineering and Technology (BUET)**
+- 📘 Completed core courses including:
+  - Discrete Mathematics, Digital Logic Design (+ Sessional)
+  - Data Structures & Algorithms I & II (+ Sessionals)
+  - Database (+ Sessional), OOP (+ Sessional), Structured Programming
+- 🧠 Learning Assembly, Microprocessors, Deep Learning, and Godot Game Dev
+- 💬 Ask me about C, C++, Java, Python, Bash, or React stack
+- 📫 Reach me at: `mehedimim@email.com`
+
+---
 
 ### 🧰 Languages & Tools
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
-![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehediMim&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=compact)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![Assembly](https://img.shields.io/badge/Assembly-808080?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 
+---
 
-### 🔗 Connect with Me
-- 🔗 [My Portfolio](https://your-portfolio.com)
-- 📺 [YouTube Channel](https://youtube.com/yourchannel)
-- 📝 [Blog](https://yourblog.com)
+### 🌟 Highlight Projects
+
+| Project | Description | Video |
+|--------|-------------|--------|
+| 🚀 **NASA Space Apps Challenge** | Space education platform combining ML, React, 3D viz, and gamification | [Watch Video](https://youtu.be/AQZeN0TNfEA?si=Rxrp5gLztim2yskJ) |
+| 🎨 **Frontend Design Showcase** | Stylish UI/UX project using React + Tailwind | [Watch Video](https://youtu.be/9yrtWuB5y5E?si=FEnabpIl-H9WTaO6) |
+| 🛍️ **E-commerce Website** | Full-stack shop platform with cart, auth, and admin | [Watch Video](https://youtu.be/jDDWStAuT3o?si=wLuon-ZpZT5Jx-ad) |
+| 🍽️ **JavaFX Restaurant Management** | Desktop-based management system for orders and billing | [Watch Video](https://youtu.be/-g-A30ctGrE?si=xeea5An9poofiRYh) |
+| 🎮 **Godot Game Dev** | 2D action game project using Godot engine | [Watch Video](https://youtu.be/EPPGCsuCQeY?si=Sio-6KOOR1WolcuK) |
+| 🧑‍🏫 **Google Classroom Clone (iGraphics)** | Educational UI made using C-based iGraphics | [Watch Video](https://youtu.be/Sn_-tgrWQ_M?si=ReN31cJu21mkfs5a) |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehediMim&show_icons=true&theme=gruvbox" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=compact&theme=gruvbox" height="165">
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MehediMim&theme=gruvbox&column=6" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+- GitHub: [MehediMim](https://github.com/MehediMim)
+- Email: `mehedimim@email.com`
+- YouTube: [My Project Playlist](https://www.youtube.com/@yourchannel)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MehediMim" alt="visitor badge"/>
+</p>
