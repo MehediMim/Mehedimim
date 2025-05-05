@@ -107,12 +107,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehediMim&show_icons=true&theme=gruvbox" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=compact&theme=gruvbox" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=donut&langs_count=20&theme=gruvbox" />
+
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=compact&theme=gruvbox" height="165"> -->
 </p>
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=donut&langs_count=20&theme=gruvbox" />
 
 
 <h3 align="center">🔗 Connect With Me</h3>
