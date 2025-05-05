@@ -112,13 +112,8 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=donut&langs_count=20&theme=gruvbox" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehediMim&theme=gruvbox&column=6" />
-</p>
-
----
 
 <h3 align="center">🔗 Connect With Me</h3>
 
