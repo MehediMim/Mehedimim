@@ -26,8 +26,19 @@
   🤖 ChatGPT + Code = 💥 Productivity Unlocked<br>
   🧑‍🎨 CS mind, Designer heart<br><br>
 
-  📫 <strong>Email:</strong> <code>mehedimim@email.com</code>
+  📫 <strong>Email:</strong> <code>mdmehedihasanmim2022@gmail.com</code>
 </p>
+
+
+---
+
+<h3 align="center">📄 Resume</h3>
+
+<p align="center">
+  📥 <a href="https://github.com/MehediMim/resume/blob/mim/mehedimim_cv.pdf">View on GitHub</a> &nbsp;|&nbsp;
+  📎 <a href="https://github.com/MehediMim/resume/raw/mim/mehedimim_cv.pdf" download>Download PDF</a>
+</p>
+
 
 ---
 
@@ -100,26 +111,21 @@
 
 </div>
 
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=MehediMim&show_icons=true&theme=gruvbox" height="165"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=donut&langs_count=20&theme=gruvbox" />
-
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=compact&theme=gruvbox" height="165"> -->
 </p>
 
 ---
-
 
 <h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
   🌐 <a href="https://github.com/MehediMim">GitHub</a> &nbsp;|&nbsp;
-  📧 <code>mehedimim@email.com</code> &nbsp;|&nbsp;
+  📧 <code>mdmehedihasanmim2022@gmail.com</code> &nbsp;|&nbsp;
   ▶️ <a href="https://www.youtube.com/@yourchannel">YouTube Projects</a>
 </p>
 
