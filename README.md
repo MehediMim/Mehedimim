@@ -29,7 +29,6 @@
   📫 <strong>Email:</strong> <code>mdmehedihasanmim2022@gmail.com</code>
 </p>
 
-
 ---
 
 <h3 align="center">📄 Resume</h3>
@@ -38,7 +37,6 @@
   📥 <a href="https://github.com/MehediMim/resume/blob/mim/mehedimim_cv.pdf">View on GitHub</a> &nbsp;|&nbsp;
   📎 <a href="https://github.com/MehediMim/resume/raw/mim/mehedimim_cv.pdf" download>Download PDF</a>
 </p>
-
 
 ---
 
@@ -124,9 +122,11 @@
 <h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
-  🌐 <a href="https://github.com/MehediMim">GitHub</a> &nbsp;|&nbsp;
-  📧 <code>mdmehedihasanmim2022@gmail.com</code> &nbsp;|&nbsp;
-  ▶️ <a href="https://www.youtube.com/@yourchannel">YouTube Projects</a>
+  <a href="https://github.com/MehediMim"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/myselfmehedimim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.behance.net/myself_MehediMim"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
+  <a href="https://www.facebook.com/ImMHMIM"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@MehediMim"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
