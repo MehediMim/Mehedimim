@@ -60,7 +60,6 @@
 </p>
 
 ---
-
 <h3 align="center">🌟 Highlight Projects</h3>
 
 <div align="center">
@@ -104,10 +103,16 @@
       <td>Google Classroom clone in C</td>
       <td><a href="https://youtu.be/Sn_-tgrWQ_M?si=ReN31cJu21mkfs5a">Watch</a></td>
     </tr>
+    <tr>
+      <td>⚽ <strong>Live Auction Platform</strong></td>
+      <td>Real-time bidding platform with React, Express, MongoDB</td>
+      <td><a href="https://youtu.be/NtOs3BAJ75Q">Watch</a></td>
+    </tr>
   </tbody>
 </table>
 
 </div>
+
 
 ---
 
