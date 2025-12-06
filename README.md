@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mehedi Mim</h1>
 <p align="center">
   🎓 Junior at BUET CSE <br>
-  💻 ChatGPT-Powered Coder <br>
+  💻 Passionate Programmer & Developer <br>
   🎨 Tech Meets Design Enthusiast
 </p>
 
@@ -23,7 +23,6 @@
 
   🧠 Currently learning Assembly, Microprocessors, Deep Learning, and Godot Game Dev<br>
   💬 Fluent in: C, C++, Java, Python, Bash, React Stack<br>
-  🤖 ChatGPT + Code = 💥 Productivity Unlocked<br>
   🧑‍🎨 CS mind, Designer heart<br><br>
 
   📫 <strong>Email:</strong> <code>mdmehedihasanmim2022@gmail.com</code>
@@ -53,6 +52,8 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
   <img src="https://img.shields.io/badge/Assembly-808080?style=flat-square"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash"/><br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss"/>
@@ -60,6 +61,7 @@
 </p>
 
 ---
+
 <h3 align="center">🌟 Highlight Projects</h3>
 
 <div align="center">
@@ -105,14 +107,18 @@
     </tr>
     <tr>
       <td>⚽ <strong>Live Auction Platform</strong></td>
-      <td>Real-time bidding platform with React, Express, MongoDB</td>
+      <td>Real-time bidding platform using React, Express, MongoDB</td>
       <td><a href="https://youtu.be/NtOs3BAJ75Q">Watch</a></td>
+    </tr>
+    <tr>
+      <td>🤖 <strong>Handgesture Controlled Car</strong></td>
+      <td>Autonomous car operated via hand-gesture recognition system</td>
+      <td><a href="https://youtu.be/YGNCSxvXQyY?si=sHeeBSnvYBRmBWM6">Watch</a></td>
     </tr>
   </tbody>
 </table>
 
 </div>
-
 
 ---
 
