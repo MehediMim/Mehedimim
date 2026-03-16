@@ -1,147 +1,164 @@
-<h1 align="center">👋 Hi, I'm Mehedi Mim</h1>
+<h1 align="center" style="font-family: monospace;">Mehedi Hasan Mim</h1>
+
+<p align="center" style="font-family: monospace;">
+  Computer Science & Engineering Student at BUET<br>
+  Programmer • Developer • UI Enthusiast
+</p>
+
 <p align="center">
-  🎓 Junior at BUET CSE <br>
-  💻 Passionate Programmer & Developer <br>
-  🎨 Tech Meets Design Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C9AA71&center=true&vCenter=true&width=600&lines=Building+clean+interfaces+and+useful+systems;Passionate+about+code%2C+design%2C+and+problem+solving;Retro+minimal+developer+vibe" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="center">👨‍🎓 About Me</h3>
+<h3 align="center" style="font-family: monospace;">about</h3>
 
 <p align="center">
-  🏫 B.Sc. in <strong>Computer Science and Engineering</strong>, <br>
-  <strong>Bangladesh University of Engineering and Technology (BUET)</strong><br><br>
-
-  📚 <strong>Completed core courses:</strong><br>
-  ✔️ Discrete Mathematics<br>
-  ✔️ Digital Logic Design (+ Sessional)<br>
-  ✔️ Data Structures & Algorithms I & II (+ Sessionals)<br>
-  ✔️ Object-Oriented Programming (+ Sessional)<br>
-  ✔️ Structured Programming Language<br>
-  ✔️ Database Systems (+ Sessional)<br><br>
-
-  🧠 Currently learning Assembly, Microprocessors, Deep Learning, and Godot Game Dev<br>
-  💬 Fluent in: C, C++, Java, Python, Bash, React Stack<br>
-  🧑‍🎨 CS mind, Designer heart<br><br>
-
-  📫 <strong>Email:</strong> <code>mdmehedihasanmim2022@gmail.com</code>
+  <code>
+    name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Mehedi Hasan Mim<br>
+    education&nbsp;&nbsp;&nbsp;: B.Sc. in Computer Science and Engineering<br>
+    institution&nbsp;: Bangladesh University of Engineering and Technology (BUET)<br>
+    focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: software engineering, frontend development, system design<br>
+    interests&nbsp;&nbsp;&nbsp;: programming, UI/UX, game development, problem solving<br>
+    currently&nbsp;&nbsp;&nbsp;: assembly, microprocessors, deep learning, godot<br>
+    email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: mdmehedihasanmim2022@gmail.com
+  </code>
 </p>
 
 ---
 
-<h3 align="center">📄 Resume</h3>
+<h3 align="center" style="font-family: monospace;">resume</h3>
 
 <p align="center">
-  📥 <a href="https://github.com/MehediMim/resume/blob/mim/mehedimim_cv.pdf">View on GitHub</a> &nbsp;|&nbsp;
-  📎 <a href="https://github.com/MehediMim/resume/raw/mim/mehedimim_cv.pdf" download>Download PDF</a>
+  <a href="https://github.com/MehediMim/resume/blob/mim/mehedimim_cv.pdf">view resume</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/MehediMim/resume/raw/mim/mehedimim_cv.pdf">download pdf</a>
 </p>
 
 ---
 
-<h3 align="center">🧰 Languages & Tools</h3>
+<h3 align="center" style="font-family: monospace;">stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch"/><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/Assembly-808080?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash"/><br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/C++-282A36?style=for-the-badge&logo=cplusplus&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=openjdk&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/Bash-282A36?style=for-the-badge&logo=gnubash&logoColor=F8F8F2" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/Node.js-282A36?style=for-the-badge&logo=node.js&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/Express-282A36?style=for-the-badge&logo=express&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/PostgreSQL-282A36?style=for-the-badge&logo=postgresql&logoColor=F8F8F2" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/TailwindCSS-282A36?style=for-the-badge&logo=tailwindcss&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/Assembly-282A36?style=for-the-badge&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/VSCode-282A36?style=for-the-badge&logo=visualstudiocode&logoColor=F8F8F2" />
 </p>
 
 ---
 
-<h3 align="center">🌟 Highlight Projects</h3>
+<h3 align="center" style="font-family: monospace;">selected projects</h3>
 
-<div align="center">
-
-<table>
+<table align="center">
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Demo</th>
+      <th>project</th>
+      <th>description</th>
+      <th>demo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🚀 <strong>NASA Space Apps</strong></td>
-      <td>Space ed-tech platform with ML + React + 3D</td>
-      <td><a href="https://youtu.be/AQZeN0TNfEA?si=Rxrp5gLztim2yskJ">Watch</a></td>
+      <td><strong>NASA Space Apps</strong></td>
+      <td>Interactive space education platform using ML, React, and 3D experiences</td>
+      <td><a href="https://youtu.be/AQZeN0TNfEA?si=Rxrp5gLztim2yskJ">watch</a></td>
     </tr>
     <tr>
-      <td>🎨 <strong>Frontend Showcase</strong></td>
-      <td>Creative UI/UX with React & Tailwind</td>
-      <td><a href="https://youtu.be/9yrtWuB5y5E?si=FEnabpIl-H9WTaO6">Watch</a></td>
+      <td><strong>Frontend Showcase</strong></td>
+      <td>Creative user interface and frontend design experiments with React and Tailwind</td>
+      <td><a href="https://youtu.be/9yrtWuB5y5E?si=FEnabpIl-H9WTaO6">watch</a></td>
     </tr>
     <tr>
-      <td>🛍️ <strong>E-commerce Site</strong></td>
-      <td>Full-stack shop with cart & admin</td>
-      <td><a href="https://youtu.be/jDDWStAuT3o?si=wLuon-ZpZT5Jx-ad">Watch</a></td>
+      <td><strong>E-commerce Site</strong></td>
+      <td>Full-stack shopping platform with cart, admin features, and product flow</td>
+      <td><a href="https://youtu.be/jDDWStAuT3o?si=wLuon-ZpZT5Jx-ad">watch</a></td>
     </tr>
     <tr>
-      <td>🍽️ <strong>JavaFX Restaurant</strong></td>
-      <td>Desktop order & billing app</td>
-      <td><a href="https://youtu.be/-g-A30ctGrE?si=xeea5An9poofiRYh">Watch</a></td>
+      <td><strong>JavaFX Restaurant</strong></td>
+      <td>Desktop-based ordering, billing, and restaurant management application</td>
+      <td><a href="https://youtu.be/-g-A30ctGrE?si=xeea5An9poofiRYh">watch</a></td>
     </tr>
     <tr>
-      <td>🎮 <strong>Godot Game</strong></td>
-      <td>2D action game using Godot</td>
-      <td><a href="https://youtu.be/EPPGCsuCQeY?si=Sio-6KOOR1WolcuK">Watch</a></td>
+      <td><strong>Godot Game</strong></td>
+      <td>2D action game developed using the Godot game engine</td>
+      <td><a href="https://youtu.be/EPPGCsuCQeY?si=Sio-6KOOR1WolcuK">watch</a></td>
     </tr>
     <tr>
-      <td>👨‍🏫 <strong>iGraphics Classroom</strong></td>
-      <td>Google Classroom clone in C</td>
-      <td><a href="https://youtu.be/Sn_-tgrWQ_M?si=ReN31cJu21mkfs5a">Watch</a></td>
+      <td><strong>iGraphics Classroom</strong></td>
+      <td>Google Classroom-inspired academic platform implemented in C</td>
+      <td><a href="https://youtu.be/Sn_-tgrWQ_M?si=ReN31cJu21mkfs5a">watch</a></td>
     </tr>
     <tr>
-      <td>⚽ <strong>Live Auction Platform</strong></td>
-      <td>Real-time bidding platform using React, Express, MongoDB</td>
-      <td><a href="https://youtu.be/NtOs3BAJ75Q">Watch</a></td>
+      <td><strong>Live Auction Platform</strong></td>
+      <td>Real-time bidding platform built with React, Express, and MongoDB</td>
+      <td><a href="https://youtu.be/NtOs3BAJ75Q">watch</a></td>
     </tr>
     <tr>
-      <td>🤖 <strong>Handgesture Controlled Car</strong></td>
-      <td>Autonomous car operated via hand-gesture recognition system</td>
-      <td><a href="https://youtu.be/YGNCSxvXQyY?si=sHeeBSnvYBRmBWM6">Watch</a></td>
+      <td><strong>Handgesture Controlled Car</strong></td>
+      <td>Gesture-based intelligent car control system with embedded hardware integration</td>
+      <td><a href="https://youtu.be/YGNCSxvXQyY?si=sHeeBSnvYBRmBWM6">watch</a></td>
     </tr>
   </tbody>
 </table>
 
-</div>
-
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center" style="font-family: monospace;">github stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=donut&langs_count=20&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehediMim&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=C9AA71&text_color=D8D2C2&icon_color=C9AA71" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMim&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=C9AA71&text_color=D8D2C2" />
 </p>
 
 ---
 
-<h3 align="center">🔗 Connect With Me</h3>
+<h3 align="center" style="font-family: monospace;">connect</h3>
 
 <p align="center">
-  <a href="https://github.com/MehediMim"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/myselfmehedimim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.behance.net/myself_MehediMim"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
-  <a href="https://www.facebook.com/ImMHMIM"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@MehediMim"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/MehediMim">
+    <img src="https://img.shields.io/badge/GitHub-1A1B1E?style=for-the-badge&logo=github&logoColor=E6E1CF" />
+  </a>
+  <a href="https://www.linkedin.com/in/myselfmehedimim/">
+    <img src="https://img.shields.io/badge/LinkedIn-1A1B1E?style=for-the-badge&logo=linkedin&logoColor=E6E1CF" />
+  </a>
+  <a href="https://www.behance.net/myself_MehediMim">
+    <img src="https://img.shields.io/badge/Behance-1A1B1E?style=for-the-badge&logo=behance&logoColor=E6E1CF" />
+  </a>
+  <a href="https://www.facebook.com/ImMHMIM">
+    <img src="https://img.shields.io/badge/Facebook-1A1B1E?style=for-the-badge&logo=facebook&logoColor=E6E1CF" />
+  </a>
+  <a href="https://www.youtube.com/@MehediMim">
+    <img src="https://img.shields.io/badge/YouTube-1A1B1E?style=for-the-badge&logo=youtube&logoColor=E6E1CF" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MehediMim" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MehediMim&left_text=profile%20views" alt="visitor badge"/>
+</p>
+
+<p align="center" style="font-family: monospace;">
+  <i>clean code, calm design, meaningful systems.</i>
 </p>
